@@ -1,2 +1,2 @@
 # TimeSelectView
-时间选择器（UICollectionView）
+时间选择器（仿有成会议）
